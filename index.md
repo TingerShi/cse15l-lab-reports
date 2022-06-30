@@ -27,5 +27,6 @@ Horizontal rule:
 
 `Inline code` with backticks
 
-# code block
+```
 print something
+```
